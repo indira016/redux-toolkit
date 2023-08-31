@@ -1,0 +1,1 @@
+export const BASE_URL='https://fetchprodact-default-rtdb.firebaseio.com'
